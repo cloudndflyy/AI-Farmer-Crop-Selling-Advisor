@@ -1,0 +1,6 @@
+{
+  "name": "CloudAgri AI",
+  "description": "An intelligent agritech platform offering real-time AI yield projections, direct marketplace trading, weather telemetry, and customizable farmer and buyer dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
